@@ -1,12 +1,16 @@
-## Hi there 👋
-
-# Hi 👋 I'm Cibi
+## Hi there 👋 I'm Cibi Sadhana
+Full Stack Developer | AI Enthusiast 
 
 ## 🚀 About Me
-- 💻 Backend Developer (Spring Boot, FastAPI)
-- 🔥 Working on AI + Fraud Detection Systems
-- 🌱 Currently improving DSA & System Design
-- ⚡ Fun fact: I wake up at 3:30 AM 😄
+  
+
+💻 Full Stack Developer passionate about building scalable web applications  
+🤖 Working on AI-powered systems and fraud detection solutions  
+🔧 Experienced in Spring Boot, REST APIs & MySQL  
+⚡ Strong foundation in Data Structures & Algorithms  
+🚀 Currently focused on system design and real-world backend architecture  
+
+I love turning complex problems into simple, efficient solutions.
 
 ---
 
@@ -19,7 +23,7 @@
 ## 💻 I Code In
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,js,cpp,react,spring,fastapi,mysql,git" />
+<img src="https://skillicons.dev/icons?i=java,python,js,cpp,react,spring,mysql,git" />
 </p>
 
 ---
@@ -38,4 +42,4 @@
 
 ## 📊 GitHub Stats
 
-![Cibi's GitHub stats](https://github-readme-stats.vercel.app/api?username=cibi211&show_icons=true&theme=tokyonight)
+![Cibi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cibi211&show_icons=true&theme=tokyonight)
